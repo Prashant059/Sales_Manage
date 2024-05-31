@@ -1,4 +1,3 @@
-// src/components/EditOrderModal.js
 import React from "react";
 import { Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter, Button, FormControl, FormLabel, Input } from "@chakra-ui/react";
 import { useForm } from "react-hook-form";

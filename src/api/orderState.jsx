@@ -1,4 +1,3 @@
-// src/api/ordersState.js
 let orders = [
     {
       id: 1,
